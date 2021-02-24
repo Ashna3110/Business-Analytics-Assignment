@@ -1,0 +1,1 @@
+SELECT * FROM `bigquery-public-data.ncaa_basketball.mbb_pbp_sr` LIMIT 10
