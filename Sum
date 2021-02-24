@@ -1,0 +1,2 @@
+SELECT SUM (attendance)
+FROM bigquery-public-data.baseball.schedules
