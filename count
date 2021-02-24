@@ -1,0 +1,2 @@
+SELECT COUNT(year)
+FROM bigquery-public-data.baseball.schedules
