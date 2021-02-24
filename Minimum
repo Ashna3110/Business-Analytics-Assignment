@@ -1,0 +1,2 @@
+SELECT MIN(attendance)
+FROM bigquery-public-data.baseball.schedules
